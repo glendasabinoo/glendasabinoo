@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Glenda Sabino!
-- 🔭 I’m currently working on back-end development;
-- 🌱 I’m currently learning Java;
+- 🔭 I’m currently working on back-end and Salesforce development;
+- 🌱 I’m currently learning Java and Apex (Salesforce);
 - 😄 Pronouns: she/her;
 
 <div align="center">
